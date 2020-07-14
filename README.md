@@ -12,7 +12,12 @@ _Below are the main areas of this document, please click a relevant area to see 
 
 ## <a name="personal-project-area"></a> Personal Projects / On-going Projects
 
-Personal Projects i have made or currently working on.
+**_Personal Projects i have made or currently working on._**
+
+During the time that i am looking for work, I'm currently undertaking Udemy E-Learning courses on:
+- React & Redux
+- React Native
+- Angular 
 
 | Project       | Description   | URL / Repo |
 | :-------------: |:------------- | :-------------: |
@@ -24,6 +29,8 @@ Personal Projects i have made or currently working on.
 ---
 
 ## <a name="university-project-area"></a> University Related Projects
+
+**_Projects that i have developed during my time at University studying BSc Computing (Games Programming)_**
 
 As this is quite long in terms of content, please click a relevant area you'd like to look at.
 
@@ -74,6 +81,9 @@ As this is quite long in terms of content, please click a relevant area you'd li
 ---
 
 ## <a name="gamejam-project-area"></a> Game Jam related projects
+
+**_Game Jam Projects that i have developed and contributed to along with wonderful collegues._**
+
 | Project       | Description   | URL / Repo |
 | ------------- |:------------- | :-------------: |
 | GlobalGameJam2020 - Rough Landing | A game about repairing your spaceship and getting home. | [Repository](https://github.com/youugotssponged/GlobalGameJam2020) | 
