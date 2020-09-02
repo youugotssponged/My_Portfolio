@@ -21,7 +21,7 @@ During the time that i am looking for work, I'm currently undertaking Udemy E-Le
 
 | Project       | Description   | URL / Repo |
 | :-------------: |:------------- | :-------------: |
-| coordinate-translator-react | A React / JS based Coordinate to OSGB application based on a friend's flutter implementation.| [Repository](https://github.com/youugotssponged/coordinate-translator-react) |
+| coordinate-translator-react | A React / JS based Coordinate to OSGB application based on a friend's flutter implementation.| [Live Version](https://youugotssponged.github.io/coordinate-translator-react/) [Repository](https://github.com/youugotssponged/coordinate-translator-react) |
 | A ToDo App | A simple means of note-taking. |In Progress|
 | An Educational Tool to aid learning to code. | A Visual Tool to help beginners. |In Progress|
 | A Simple, Easy and Accessible Calculator App | A Calculator App focused on being simple to use whilst being accessible and responsive.|In Progress|
