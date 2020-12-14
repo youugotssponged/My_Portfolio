@@ -22,10 +22,10 @@ During the time that i am looking for work, I'm currently undertaking Udemy E-Le
 | Project       | Description   | URL / Repo |
 | :-------------: |:------------- | :-------------: |
 | SpongeQR | A Simple to use QR Code Generator written in C# with WPF. |[Repository](https://github.com/youugotssponged/SpongeQR) /                               [Download](https://github.com/youugotssponged/SpongeQR/releases/tag/v1.0.0-release)|
+| SpongeQR Web | A React / JS implementation of SpongeQR.| [Repository](https://github.com/youugotssponged/spongeqr-web) |
 | coordinate-translator-react | A React / JS based Coordinate to OSGB application based on a friend's flutter implementation.| [Live Version](https://youugotssponged.github.io/coordinate-translator-react/) / [Repository](https://github.com/youugotssponged/coordinate-translator-react) |
 | An Educational Tool to aid learning to code. | A Visual Tool to help beginners. |In Progress|
 | A Simple Toolbox Application | A "Toolbox" of things such as unit converters and other utilities. |In Progress|
-
 
 ---
 
